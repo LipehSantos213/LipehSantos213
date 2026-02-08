@@ -1,6 +1,12 @@
+<div align="center">
+    
 # 👨🏻‍💻 Felipe Lima
 
-**Desenvolvedor Full Stack**
+## Desenvolvedor Full Stack Júnior
+
+</div>
+
+---
 
 Me chamo Felipe Lima dos Santos, tenho 17 anos e sou natural do Ceará. Atualmente curso o Ensino Médio integrado ao Técnico em Redes de Computadores na EEEP Rita Aguiar Barbosa, em Itapipoca.
 
